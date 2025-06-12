@@ -6,4 +6,4 @@ Using the color information in image, build Gaussian mixture model of "apple" an
 
 The result is shown below.
 
-![ResultExample](/Users/clotho/code/machineVision/GMM-ImageSegmentation/ResultExample.jpg)
+![ResultExample](./ResultExample.jpg)
